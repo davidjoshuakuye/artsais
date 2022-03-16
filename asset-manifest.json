@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/artsais/static/css/main.3081a8c7.chunk.css",
+    "main.js": "/artsais/static/js/main.45e7ef71.chunk.js",
+    "main.js.map": "/artsais/static/js/main.45e7ef71.chunk.js.map",
+    "runtime-main.js": "/artsais/static/js/runtime-main.2160dd88.js",
+    "runtime-main.js.map": "/artsais/static/js/runtime-main.2160dd88.js.map",
+    "static/css/2.a4c8f85b.chunk.css": "/artsais/static/css/2.a4c8f85b.chunk.css",
+    "static/js/2.58d54896.chunk.js": "/artsais/static/js/2.58d54896.chunk.js",
+    "static/js/2.58d54896.chunk.js.map": "/artsais/static/js/2.58d54896.chunk.js.map",
+    "index.html": "/artsais/index.html",
+    "precache-manifest.cb828021c5d75f118921d061c609d6e4.js": "/artsais/precache-manifest.cb828021c5d75f118921d061c609d6e4.js",
+    "service-worker.js": "/artsais/service-worker.js",
+    "static/css/2.a4c8f85b.chunk.css.map": "/artsais/static/css/2.a4c8f85b.chunk.css.map",
+    "static/css/main.3081a8c7.chunk.css.map": "/artsais/static/css/main.3081a8c7.chunk.css.map",
+    "static/js/2.58d54896.chunk.js.LICENSE.txt": "/artsais/static/js/2.58d54896.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2160dd88.js",
+    "static/css/2.a4c8f85b.chunk.css",
+    "static/js/2.58d54896.chunk.js",
+    "static/css/main.3081a8c7.chunk.css",
+    "static/js/main.45e7ef71.chunk.js"
+  ]
+}
